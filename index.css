@@ -1,0 +1,36 @@
+/* Stylesheet for index.html */
+
+body {
+    font-size: 100%;
+    background-color: #f5e7fd;
+}
+
+h1 {
+    font-size: 3.5em;
+    text-align: center;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.center {
+    clear: both;
+}
+
+h3 {
+    font-size: 2em;
+    color: green;
+    text-allign: center;
+}
+
+p {
+    text-allign: center;
+    
+}
+    
