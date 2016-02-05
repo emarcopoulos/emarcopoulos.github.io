@@ -21,19 +21,19 @@ h1 {
 }
 
 .left {
-    width: 33%;
+    width: 50% - 250px;
     position: absolute;
     left: 0;
 }
 
 .right {
-    width: 33%;
+    width: 50% - 250px;
     right: 0;
     position: absolute;
 }
 
 .center {
-    width: 34%;
+    width: 500px;
     position: absolute;
     margin-left: 33%;
 }
