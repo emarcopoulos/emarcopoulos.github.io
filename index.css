@@ -11,12 +11,12 @@ h1 {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
-#columns {
+.columns {
     position: relative;
     width: 100%;
 }
 
-#columns div {
+.columns div {
     height: 500px;
 }
 
@@ -35,7 +35,7 @@ h1 {
 .center {
     width: 34%;
     position: absolute;
-    margin-right: 33%;
+    margin-left: 33%;
 }
 
 h3 {
