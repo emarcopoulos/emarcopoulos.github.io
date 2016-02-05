@@ -11,16 +11,26 @@ h1 {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
+#columns {
+    position: relative;
+    width: 100%;
+
 .left {
-    float: left;
+    width: 33%;
+    position: absolute;
+    left: 0;
 }
 
 .right {
-    float: right;
+    width: 33%;
+    right: 0;
+    position: absolute;
 }
 
 .center {
-    clear: both;
+    width: 34%;
+    position: absolute;
+    margin-right: 33%;
 }
 
 h3 {
