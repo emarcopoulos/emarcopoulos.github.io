@@ -12,6 +12,7 @@ h1 {
 }
 
 .columns {
+    text-allign: center;
     position: relative;
     width: 100%;
 }
@@ -41,13 +42,12 @@ h1 {
 h3 {
     font-size: 2em;
     color: green;
-    text-allign: center;
 }
 
 p {
-    text-allign: center;
-    
+    font-size: 1.25em;
 }
 
 img {
-    margin-top: 36px;
+    margin-top: 200px;
+}
