@@ -21,19 +21,19 @@ h1 {
 }
 
 .left {
-    width: 50% - 250px;
+    width: 33%;
     position: absolute;
     left: 0;
 }
 
 .right {
-    width: 50% - 250px;
+    width: 33%;
     right: 0;
     position: absolute;
 }
 
 .center {
-    width: 500px;
+    width: 34%;
     position: absolute;
     margin-left: 33%;
 }
@@ -48,4 +48,6 @@ p {
     text-allign: center;
     
 }
-    
+
+img {
+    margin-top: 36px;
