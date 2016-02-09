@@ -1,0 +1,15 @@
+/* stylesheet for bio.html */
+
+body {
+    font-size: 100%;
+    background-color: #f517fd;
+    text-align: center;
+}
+
+h2 {
+	color: orange;
+}
+
+p {
+	color: #ed7754;
+}
