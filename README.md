@@ -12,8 +12,6 @@ Assignment 1 details:
 		-CS homepage redirects to github homepage
 		-CSS stylesheet for bio and resume
 		-added more info to the bio
-	Need to:
-		-Choose a more professional image for homepage
 
 2)
 	I used many online websites including stackoverflow to aid me in syntax
